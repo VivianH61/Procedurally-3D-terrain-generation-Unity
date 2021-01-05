@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: water_section
+  m_Shader: {fileID: 4800000, guid: 2070515320f38114fa77825d36a33264, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2100
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Skybox:
+        m_Texture: {fileID: 8900000, guid: 347fd29059977064faa5e8cb6595b5d9, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RefractOffset: 0.2
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _A: {r: 0.023, g: 0.013, b: 0.017, a: 0.019}
+    - _Attenuation: {r: 0.45, g: 0.1718, b: 0.1133, a: 0}
+    - _BoxSize: {r: 5, g: 5, b: 2, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DiffuseRadiance: {r: 0.0338, g: 0.1015, b: 0.2109, a: 0}
+    - _Dx: {r: 0.5238598, g: 0.6235364, b: 0.45442417, a: 0.21197248}
+    - _Dz: {r: 0.85180455, g: 0.78179437, b: 0.89078546, a: 0.97727567}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HeightAtten: {r: -4, g: 4, b: 1, a: 0}
+    - _Kd: {r: 0.3867, g: 0.1055, b: 0.0469, a: 0}
+    - _L: {r: 6.2831855, g: 8.267349, b: 7.059759, a: 6.7561135}
+    - _QA: {r: 0.019894367, g: 0.015119719, b: 0.017705986, a: 0.01850176}
+    - _S: {r: 0.1, g: 0.5, b: 0.7, a: 0.3}

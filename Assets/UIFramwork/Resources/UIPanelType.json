@@ -1,0 +1,23 @@
+{
+"infoList":
+[
+	{"panelTypeString":"Menu",
+	"path":"UIPanel/MenuPanel"},
+	
+	{"panelTypeString":"Creation",
+	"path":"UIPanel/CreationPanel"},
+	
+	{"panelTypeString":"Terrain",
+	"path":"UIPanel/TerrainPanel"},
+
+	{"panelTypeString":"Import",
+	"path":"UIPanel/ImportPanel"},
+	
+	{"panelTypeString":"Main",
+	"path":"UIPanel/MainPanel"},
+
+	{"panelTypeString":"Info",
+	"path":"UIPanel/InformationPanel"}
+	
+]
+}

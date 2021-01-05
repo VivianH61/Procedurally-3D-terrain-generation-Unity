@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainPanel
+  - treeSpring1
+  - grassSpring
+  - treeSummer1
+  - grassSummer
+  - treeAutumn1
+  - grassAutumn
+  - treeWinter1
+  - grassWinter
+  - cotton_plant 2
+  - oak 1
+  - bush 5
+  - oak 5_autumn
+  - wheat_plant 1_autur
+  - spruce 1
+  - bush 2
+  - terrain
+  - treeAutumn3
+  - treeAutumn4
+  - treeAutumn2
+  - treeSummer2
+  - treeSpring3
+  - treeSpring2
+  - treeWinter2
+  - treeSummer3
+  - yellowgrass
+  - greengrass
+  - snow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
